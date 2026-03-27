@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>WeatherAPI_Profile</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'d3a402b95bd06054d66993b0bd33b62b'</initValue>
+      <name>apiKey</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
